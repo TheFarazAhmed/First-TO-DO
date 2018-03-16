@@ -1,0 +1,20 @@
+body
+{
+    background-color: black;
+    color: silver;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btnclass{
+    background-color: black;
+    font-family: Impact;
+    font-stretch: expanded;
+    /* font-weight: bold; */
+}
+
+li{
+    list-style-type: none;
+}
+
